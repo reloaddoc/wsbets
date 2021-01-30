@@ -5,7 +5,7 @@
 	* commads of the game
 */
 
-sGameName = "WSB/GME Saga - DFV view (Click text to continue)";
+sGameName = "WSB/GME Saga - DFV view (Click text)";
 
 GameCredits = "Alex";
 
