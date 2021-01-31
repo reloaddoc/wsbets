@@ -65,7 +65,7 @@ aCommands = {
 		["t", "You're on high spirits and hope for a nice profit with your GameStop shares."],
 		["t", "However, the short sellers are striking back. Two of them publish research reports on GameStop, basically telling the public that GameStop shares trade at too high of a price and the company is failing."],
 		["t", "You discuss with your fellow WSB people and become angry. Now more than ever you buy more Gamestop shares."],
-		["t", "You calculate that these short sellers need to buy back the shares is in the very near future. Because they agreed with the original owners a certain date at which to return the shares."],
+		["t", "You calculate that these short sellers need to buy back the shares in the very near future. Because they agreed with the original owners a certain date at which to return the shares."],
 		["t", "It's a public battle now. People on WSB, Discord and Twitter are jumping on the GameStop train, buying shares. Shares are trading at over $100 now."],
 		["b", "You hold on to your shares, which are now worth a fortune.", "Hold"],
 		["b", "You sell your shares, which are now worth a fortune.", "Partner"]
