@@ -48,7 +48,7 @@ aCommands = {
 		["i", "images/overshort.png"],
 		["t", "In fact, you discover that 140% of GameStop shares are shorted. Which means that they are over-shorted. Which means that every owner of a GameStop share will definitely be able to sell her shares because all people who borrowed shares need to eventually return them. And for this they need to buy the shares."],
 		["t", "That means that short selling Hedge Funds went too far. Of course, they were hoping that nobody notices."],
-        ["b", "You notice and decide to post it on Wallstreetbets.", "WSB2"],
+        	["b", "You notice and decide to post it on Wallstreetbets.", "WSB2"],
 		["b", "You tell your partner, do nothing about it and go to bed.", "Partner"]
     ],	
 	"WSB2":[
@@ -58,7 +58,7 @@ aCommands = {
 		["t", "WSB is excited! People start buying GameStop shares, hoping for share price rises. Some think a fair price would be somewhere around $30 to $60, given a potential digital transformation of the company."],
 		["t", "Others, including you, go a step further and calculate that the share price will rise dramatically. Because eventually short sellers need to come up with shares and return them. And if only enough people on WSB would buy the shares, refuse to sell them at low prices, short sellers would need to pay a lot for these shares. WSB people would get rich!"],
 		["b", "You buy more shares.", "Melvin"],
-		["b", "You talk to your partner and do nothing.", "Partner"]
+		["b", "You do nothing.", "Partner"]
 	],
 	"Melvin":[
 		["i", "images/vader.png"],
