@@ -13,7 +13,7 @@ var sCurrentPageLabel;
 function Init(){
     console.log("add listner");
     document.getElementById('body').addEventListener('click', PlayNext, true);
-    document.getElementById('footer').innerHTML = 'Game created by <a href ="https://twitter.com/alxpoeschl"><b>Alex</b></a> with <a href="https://github.com/vjncenzo/SimpleAdventureMaker">SimpleAdventureMaker</a>';
+    document.getElementById('footer').innerHTML = 'Game created by AP with <a href="https://github.com/vjncenzo/SimpleAdventureMaker">SimpleAdventureMaker</a>';
     document.getElementById('title').innerHTML = sGameName;
     document.title = sGameName;
 
